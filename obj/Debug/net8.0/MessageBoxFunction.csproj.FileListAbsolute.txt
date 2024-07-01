@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\MessageBoxFunction\bin\Debug\net8.0\MessageBoxFunction.exe
+C:\Users\48571\source\repos\MessageBoxFunction\bin\Debug\net8.0\MessageBoxFunction.deps.json
+C:\Users\48571\source\repos\MessageBoxFunction\bin\Debug\net8.0\MessageBoxFunction.runtimeconfig.json
+C:\Users\48571\source\repos\MessageBoxFunction\bin\Debug\net8.0\MessageBoxFunction.dll
+C:\Users\48571\source\repos\MessageBoxFunction\bin\Debug\net8.0\MessageBoxFunction.pdb
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.AssemblyInfo.cs
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.dll
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\refint\MessageBoxFunction.dll
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.pdb
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\MessageBoxFunction.genruntimeconfig.cache
+C:\Users\48571\source\repos\MessageBoxFunction\obj\Debug\net8.0\ref\MessageBoxFunction.dll
